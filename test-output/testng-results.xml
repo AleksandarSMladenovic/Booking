@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-19T19:48:21Z" name="Default suite" finished-at="2021-08-19T19:48:28Z" duration-ms="7375">
+    <groups>
+    </groups>
+    <test started-at="2021-08-19T19:48:21Z" name="Default test" finished-at="2021-08-19T19:48:28Z" duration-ms="7375">
+      <class name="negativTest.TestSubscribeWithoutCredentials">
+        <test-method is-config="true" signature="openDriver()[pri:0, instance:negativTest.TestSubscribeWithoutCredentials@2893de87]" started-at="2021-08-19T21:48:21Z" name="openDriver" finished-at="2021-08-19T21:48:22Z" duration-ms="1372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openDriver -->
+        <test-method signature="subscribeBlank()[pri:0, instance:negativTest.TestSubscribeWithoutCredentials@2893de87]" started-at="2021-08-19T21:48:22Z" name="subscribeBlank" finished-at="2021-08-19T21:48:24Z" duration-ms="1916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscribeBlank -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:negativTest.TestSubscribeWithoutCredentials@2893de87]" started-at="2021-08-19T21:48:24Z" name="closeDriver" finished-at="2021-08-19T21:48:28Z" duration-ms="4074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- negativTest.TestSubscribeWithoutCredentials -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
